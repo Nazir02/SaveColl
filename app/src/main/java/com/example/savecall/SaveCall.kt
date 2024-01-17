@@ -7,7 +7,6 @@ import android.content.Context
 import android.content.Intent
 import android.provider.ContactsContract
 import android.telephony.TelephonyManager
-import android.util.Log
 import android.widget.Toast
 
 class CallReceiver : BroadcastReceiver() {

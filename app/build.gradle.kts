@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.savecoll"
+    namespace = "com.example.savecall"
     compileSdk = 34
 
     defaultConfig {
